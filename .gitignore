@@ -1,0 +1,12 @@
+/vendor/
+/.env
+/.env.*
+/storage/*.sqlite
+/storage/*.db
+/storage/*.log
+/storage/cache/
+/.idea/
+/.vscode/
+/node_modules/
+/.phpunit.cache/
+/composer.phar
